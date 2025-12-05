@@ -37,7 +37,8 @@
 
  ## OUTPUT
  <img width="759" height="768" alt="Screenshot 2025-11-21 130944" src="https://github.com/user-attachments/assets/f4798d3f-ca18-4824-b694-9bad53c0bf92" />
-<img width="1086" height="767" alt="ex1 2 drawing" src="https://github.com/user-attachments/assets/d215e64b-16fc-4622-bec3-8e08383f0e50" />
+<img width="1084" height="774" alt="Screenshot 2025-11-29 155348" src="https://github.com/user-attachments/assets/0b5c5a0a-f6c3-49f5-820d-45f4577777bb" />
+
 
  
  ## RESULT
